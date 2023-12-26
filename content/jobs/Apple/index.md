@@ -1,7 +1,7 @@
 ---
 date: '2022-05-01'
 title: 'Mentor'
-company: 'GirlScript Summer of Code'
+company: 'GSSOC'
 location: 'Remote'
 range: 'Feb 2022 - Apr 2022'
 url: 'https://www.linkedin.com/company/girlscriptsoc/?originalSubdomain=in'

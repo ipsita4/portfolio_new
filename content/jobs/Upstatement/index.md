@@ -1,7 +1,7 @@
 ---
 date: '2022-12-16'
 title: 'Software Developer Intern'
-company: 'RMgX Technologies LLP'
+company: 'RMgX'
 location: 'Gurgaon, India'
 range: 'Jun 2022 - Dec 2022'
 url: 'https://www.rmgx.in/'
