@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '3'
 title: 'Matilda - Discord Music Bot'
 cover: './matilda.jpg'
 github: 'https://github.com/ipsita4/Matilda_Bot'
