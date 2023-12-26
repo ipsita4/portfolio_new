@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'GHG Calculator'
 cover: './gfg_calculator.PNG'
 github: 'https://github.com/ipsita4/SIH22'

@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'ThreeAres'
 cover: './threeares.jpg'
 github: 'https://github.com/ipsita4/ThreeAres'
