@@ -7,9 +7,8 @@ external: 'https://lanterns-homepage.netlify.app/'
 tech:
   - HTML5
   - CSS3
-  - React
-  - Bootstrap
   - Javascript
+  - Bootstrap
   - Ajax
 ---
 
