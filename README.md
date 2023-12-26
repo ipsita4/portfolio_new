@@ -9,7 +9,7 @@
 2. Install dependencies
 
    ```sh
-   yarn
+   npm install
    ```
 
 3. Start the development server

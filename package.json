@@ -1,10 +1,10 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "portfolio",
+  "description": "Personal Website",
   "author": "Ipsita Bhattacharya <i.bhatya@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/ipsita4/portfolio_new"
   },
   "keywords": [
     "gatsby"
