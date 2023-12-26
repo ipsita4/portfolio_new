@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-12-16'
+title: 'Software Developer Intern'
+company: 'RMgX Technologies LLP'
+location: 'Gurgaon, India'
+range: 'Jun 2022 - Dec 2022'
+url: 'https://www.rmgx.in/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Collaborated and completed over 4+ client projects and contributed over 100+ times implementing features.
+- Gained experience by working on various applications utilizing a wide range of technologies including ReactJS, NextJS, AngularJS, JavaScript, TypeScript, MUI, NodeJS, REST API, Tailwind CSS and Postman.
+- Taken part in SDLC to decide the architecture of the app, use of React, React-Redux State Management over all pages using modern approach by writing efficient reusable codes to convert complex designs into rich user interfaces.
+- Received appreciation from my team and clients for my dedication and commitment to delivering on time results.

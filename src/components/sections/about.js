@@ -21,7 +21,7 @@ const StyledAboutSection = styled.section`
 const StyledText = styled.div`
   ul.skills-list {
     display: grid;
-    grid-template-columns: repeat(2, minmax(140px, 200px));
+    grid-template-columns: repeat(3, minmax(140px, 200px));
     grid-gap: 0 10px;
     padding: 0;
     margin: 20px 0 0 0;
@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript',
+    'TypeScript',
+    'React',
+    'Next',
+    'AngularJS',
+    'NodeJS',
+    'Python',
+    'MongoDB',
+    'PostgreSql',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +145,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
+              Hello! My name is Ipsita and I enjoy creating things that live on the internet. My
+              interest in web development started back in 2015 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
+              <a href="https://www.rmgx.in/">RMgX Technologies LLP</a> as a Software Developer
+              Intern. There I've collaborated on 4+ client projects, contributing 100+ times with
+              expertise in ReactJS, NextJS, AngularJS, TypeScript, NodeJS, MUI, and more. I excel in
+              SDLC, implementing React-Redux for efficient, reusable code, earning praise for
+              on-time delivery and dedication from both team and clients.
+              {/* <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              clients. */}
             </p>
 
             <p>

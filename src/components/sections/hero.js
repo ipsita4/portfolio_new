@@ -42,7 +42,7 @@ const StyledHeroSection = styled.section`
 
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
-    margin-top: 50px;
+    margin-top: 30px;
   }
 `;
 
@@ -65,9 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+        As a passionate software developer, I thrive on transforming innovative ideas into robust,
+        efficient code. With a keen eye for detail and a commitment to delivering high-quality
+        solutions, I navigate the dynamic world of programming with curiosity and precision.
+        Crafting software that empowers and inspires is my constant pursuit.
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}

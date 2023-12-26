@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2022-05-01'
+title: 'Mentor'
+company: 'GirlScript Summer of Code'
+location: 'Remote'
+range: 'Feb 2022 - Apr 2022'
+url: 'https://www.linkedin.com/company/girlscriptsoc/?originalSubdomain=in'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Guided GirlScript Summer of Code 2022 participants, fostering their growth through mentorship, enabling them to contribute effectively to open-source projects.
+- Empowered students to navigate coding challenges, cultivating resilience and problem-solving skills while actively engaging in the open-source community.
+- Fostered collaboration within the cohort, facilitating knowledge sharing and creating a supportive environment for students to excel in coding projects.
+- Instilled a passion for open-source contribution, equipping mentees with valuable skills and a sense of accomplishment in their coding endeavors.
