@@ -1,14 +1,14 @@
 ---
-date: '4'
-title: 'four'
+date: '2018-05-01'
+title: 'blistabloc'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://blistabloc.com/'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
-showInProjects: true
+  - WordPress
+  - Timber
+  - WooCommerce
+company: 'Scout'
+showInProjects: false
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.

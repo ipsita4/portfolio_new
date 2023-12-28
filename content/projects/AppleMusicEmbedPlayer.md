@@ -1,6 +1,6 @@
 ---
-date: '3'
-title: 'three'
+date: '2017-12-01'
+title: 'Apple Music Embeddable Web Player Widget'
 github: ''
 external: 'https://tools.applemusic.com/en-us'
 tech:
