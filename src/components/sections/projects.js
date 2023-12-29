@@ -220,7 +220,7 @@ const Projects = () => {
         <header>
           <div className="project-top">
             <div className="folder">
-              <Icon name="Folder" />
+              <Icon name="Star" />
             </div>
             <div className="project-links">
               {github && (
