@@ -1,8 +1,8 @@
 ---
-date: '2020-03-27'
+date: '2'
 title: 'Script4HER Hackathon'
 
 showInProjects: true
 ---
 
-Awarded the Third position in National Hackathon Script4HER within 27 teams.
+Achieved a notable accomplishment by clinching the third position in the highly competitive Script4HER National Hackathon, surpassing a field of 27 talented teams.

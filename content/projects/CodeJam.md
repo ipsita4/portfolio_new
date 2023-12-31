@@ -1,8 +1,8 @@
 ---
-date: '2019-07-15'
+date: '3'
 title: 'Google Code Jam Women 2022'
 
 showInProjects: true
 ---
 
-Secured global rank 1635 in Google Code Jam Women 2022.
+Achieved the global rank of 1635 in the esteemed Google Code Jam Women 2022 competition.

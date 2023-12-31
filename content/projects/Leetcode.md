@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '1'
 title: 'Solved 370+ Leetcode Problems'
 
 showInProjects: true

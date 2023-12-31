@@ -1,5 +1,5 @@
 ---
-date: '2016-08-01'
+date: '7'
 title: 'Google Cloud Program'
 
 showInProjects: true

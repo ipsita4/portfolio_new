@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '8'
 title: 'GirlScript Foundation’s WEB3CAMP'
 
 showInProjects: true

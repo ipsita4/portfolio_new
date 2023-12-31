@@ -1,8 +1,8 @@
 ---
-date: '2019-11-12'
+date: '4'
 title: 'Smart India Hackathon 2022 Finalist'
 
 showInProjects: true
 ---
 
-Qualified to the Finals of Smart India Hackathon 2022 under Ministry of Rural Development, Govt. of India among 26 teams pan-India.
+Advanced to the Smart India Hackathon 2022 Finals, representing the Ministry of Rural Development, Govt. of India, competing among 26 teams nationwide.
