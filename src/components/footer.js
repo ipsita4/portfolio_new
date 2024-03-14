@@ -83,7 +83,7 @@ const Footer = () => (
 
     <StyledCredit tabindex="-1">
       <a href="https://github.com/ipsita4/portfolio_new">
-        <div>Designed &amp; Built by Ipsita Bhattacharya</div>
+        <div>Designed &amp; Built by Ipsita Bhattacharya.</div>
       </a>
     </StyledCredit>
   </StyledFooter>
