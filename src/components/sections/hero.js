@@ -68,10 +68,12 @@ const Hero = () => {
         As a passionate software developer, I thrive on transforming innovative ideas into robust,
         efficient code. With a keen eye for detail and a commitment to delivering high-quality
         solutions, I navigate the dynamic world of programming with curiosity and precision.
-        Crafting software that empowers and inspires is my constant pursuit.
-        {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a> */}
+        Currently, I’m focused on crafting software that empowers creators to build their fan
+        communities and enable fans to own a share in their success at
+        <a href="https://fanztar.com/" target="_blank" rel="noreferrer">
+          Fanztar
+        </a>
+        .
       </p>
     </>
   );

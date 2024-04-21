@@ -126,15 +126,15 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Python',
     'JavaScript',
     'TypeScript',
+    'VueJS',
+    'NodeJS',
     'React',
     'NextJS',
     'AngularJS',
-    'NodeJS',
-    'Python',
     'MongoDB',
-    'PostgreSql',
     'Docker',
   ];
 
@@ -146,29 +146,40 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ipsita and I enjoy creating things that live on the internet. My
-              computer science journey began in school, where I initially encountered coding
-              concepts. Inspired by coursework, I delved deeper into programming, sparking a lasting
-              passion for technology.
+              Hello! My name is Ipsita, and I enjoy creating things that thrive on the internet. My
+              journey in computer science began during school, where I first encountered coding
+              concepts. Inspired by my coursework, I delved deeper into programming, igniting a
+              lasting passion for technology.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              Fast-forward to today, I've had the privilege of working at{' '}
               <a href="https://www.rmgx.in/">RMgX Technologies LLP</a> as a Software Developer
-              Intern. There I gained invaluable experience, contributing to projects and honing my
-              skills in a dynamic and innovative environment.
+              Intern, gaining valuable experience in diverse projects, honing skills in a dynamic
+              environment.
               {/* <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
               clients. */}
+              <p>
+                I've also ventured into freelancing projects, where I've had the opportunity to
+                collaborate with clients, and deliver tailored solutions to meet their needs.
+              </p>
             </p>
 
             <p>
-              I have also solved algorithmic challenges on{' '}
+              Currently, I am thrilled to be part of the talented team at{' '}
+              <a href="https://fanztar.com/">Fanztar</a>, serving as a Software Engineer. My main
+              focus these days is building software solutions that empowers creators to cultivate
+              their fan communities.
+            </p>
+
+            <p>
+              Additionally, I have also solved algorithmic challenges on{' '}
               <a href="https://leetcode.com/ipsita04/">LeetCode </a>, enhancing problem-solving
-              skills and algorithm proficiency through consistent and strategic coding practice.
+              skills and algorithm proficiency.
             </p>
 
             {/* <p>
