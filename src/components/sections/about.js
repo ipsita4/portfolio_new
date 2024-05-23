@@ -171,7 +171,7 @@ const About = () => {
 
             <p>
               Currently, I am thrilled to be part of the talented team at{' '}
-              <a href="https://fanztar.com/">Fanztar</a>, serving as a Software Engineer. My main
+              <a href="https://fanztar.com/">Fanztar</a>, serving as a Full Stack Developer. My main
               focus these days is building software solutions that empowers creators to cultivate
               their fan communities.
             </p>
